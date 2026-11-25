@@ -8,3 +8,5 @@ Actions.
 3. После слияния в `main` MkDocs собирает статический сайт.
 4. GitHub Pages публикует артефакт сборки.
 Адрес будущего сайта: `https://YanchikSivova.github.io/devops-docs/`.
+
+[Контрольная ссылка](missing-page.md)
